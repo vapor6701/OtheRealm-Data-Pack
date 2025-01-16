@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W#W",
+        "#C#",
+        "W#W"
+    ],
+    "key": {
+        "#": "minecraft:red_concrete",
+        "W": "minecraft:white_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_ani_cover",
+            "minecraft:jukebox_playable": {
+                "song": "custom:ani_christmas_cover"
+            }
+        }
+    }
+}

@@ -13,7 +13,7 @@
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
-            "item_model":"custom:music_disc_doom",
+            "minecraft:item_model": "custom:music_disc_doom",
             "minecraft:jukebox_playable": {
                 "song": "custom:doom"
             }

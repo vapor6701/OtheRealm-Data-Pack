@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "W#W",
+        "MCM",
+        "W#W"
+    ],
+    "key": {
+        "#": "minecraft:red_concrete",
+        "W": "minecraft:white_concrete",
+        "M": "minecraft:melon",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_vortex_santa",
+            "minecraft:jukebox_playable": {
+                "song": "custom:vortex_secret_santa"
+            }
+        }
+    }
+}

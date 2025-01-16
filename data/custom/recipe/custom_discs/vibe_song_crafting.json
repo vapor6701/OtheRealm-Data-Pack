@@ -13,7 +13,7 @@
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
-            "item_model":"custom:music_disc_vibe",
+            "minecraft:item_model": "custom:music_disc_vibe",
             "minecraft:jukebox_playable": {
                 "song": "custom:vibe_song"
             }

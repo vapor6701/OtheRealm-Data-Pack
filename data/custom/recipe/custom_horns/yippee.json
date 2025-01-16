@@ -4,15 +4,16 @@
   "result": {
     "count": 1,
     "id": "minecraft:goat_horn",
-    "components":{
+    "components": {
       "minecraft:instrument": {
         "sound_event": {
           "sound_id": "custom:horn.yippee"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description" : "YIPPEEEEEE"
-      }
+        "description": "Yippee!!"
+      },
+      "minecraft:item_model": "custom:custom_horn"
     }
   },
   "group": "custom horns"
