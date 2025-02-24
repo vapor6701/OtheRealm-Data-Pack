@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X#X",
+        "#C#",
+        "X#X"
+    ],
+    "key": {
+        "X": "minecraft:white_concrete",
+        "#": "minecraft:black_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_rick_roll",
+            "minecraft:jukebox_playable": {
+                "song": "custom:rick_roll"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:netherrack",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_doom",
+            "minecraft:jukebox_playable": {
+                "song": "custom:doom"
+            }
+        }
+    }
+}

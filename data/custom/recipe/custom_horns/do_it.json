@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:goat_horn",
+  "result": {
+    "count": 1,
+    "id": "minecraft:goat_horn",
+    "components": {
+      "minecraft:instrument": {
+        "sound_event": {
+          "sound_id": "custom:horn.do_it"
+        },
+        "use_duration": 7.0, 
+        "range": 256.0,
+        "description": "Do it"
+      },
+      "minecraft:item_model": "custom:custom_horn"
+    }
+  },
+  "group": "custom horns"
+}

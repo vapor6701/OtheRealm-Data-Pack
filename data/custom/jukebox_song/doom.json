@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "The Only Thing They Fear is You - Mick Gordon"
+  },
+  "length_in_seconds": 258.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.doom"
+  }
+}
