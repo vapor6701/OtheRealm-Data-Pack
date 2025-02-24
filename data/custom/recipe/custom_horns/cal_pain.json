@@ -13,7 +13,8 @@
         "range": 256.0,
         "description": "Pain"
       },
-      "minecraft:item_model": "custom:custom_horn"
+      "minecraft:item_model": "custom:custom_horn",
+      "minecraft:custom_model_data":{"floats":[1]}
     }
   },
   "group": "custom horns"
