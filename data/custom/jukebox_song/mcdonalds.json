@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "Silly Stu - McDonald's in the Pentagon"
+  },
+  "length_in_seconds": 65.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.mcdonalds"
+  }
+}

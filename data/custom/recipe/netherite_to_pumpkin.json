@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:netherite_helmet",
+  "addition": "minecraft:carved_pumpkin",
+  "template": "minecraft:carved_pumpkin",
+  "result": {
+    "id": "minecraft:netherite_helmet",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "head",
+        "equip_sound": "minecraft:item.armor.equip_netherite",
+        "dispensable": true,
+        "swappable": true,
+        "damage_on_hurt": true
+      },
+      "minecraft:item_model": "minecraft:carved_pumpkin",
+      "minecraft:lore": [
+        "\"use the /trigger custommodeldata\"",
+        "\"to change the model!\""
+      ]
+    }
+  }
+}

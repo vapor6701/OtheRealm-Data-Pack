@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ROY",
+        "ACG",
+        "WPB"
+    ],
+    "key": {
+        "R": "minecraft:red_concrete",
+        "O": "minecraft:orange_concrete",
+        "Y": "minecraft:yellow_concrete",
+        "G": "minecraft:green_concrete",
+        "B": "minecraft:blue_concrete",
+        "P": "minecraft:purple_concrete",
+        "W": "minecraft:white_concrete",
+        "A": "minecraft:black_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_oiia_cat",
+            "minecraft:jukebox_playable": {
+                "song": "custom:oiia_cat_remix"
+            }
+        }
+    }
+}
