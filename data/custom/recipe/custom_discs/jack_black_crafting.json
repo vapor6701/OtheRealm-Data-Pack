@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "WCW",
+        "GGG"
+    ],
+    "key": {
+        "B": "minecraft:brown_terracotta",
+        "W": "minecraft:white_terracotta",
+        "G": "minecraft:gray_terracotta",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_jack_black",
+            "minecraft:jukebox_playable": {
+                "song": "custom:jack_black"
+            }
+        }
+    }
+}
