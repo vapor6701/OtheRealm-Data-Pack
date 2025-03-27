@@ -7,13 +7,14 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.stand_ready"
+          "sound_id": "custom:horn.otherealm.romeo_ahhh"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Stand Ready"
+        "description": "Romeo Ahhhhh"
       },
-      "minecraft:item_model": "custom:custom_horn"
+      "minecraft:item_model": "custom:custom_horn",
+      "minecraft:custom_model_data":{"floats":[1]}
     }
   },
   "group": "custom horns"

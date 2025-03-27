@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "EpochGD - Flint n Steel"
+  },
+  "length_in_seconds": 62.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.flint_n_steel_remix"
+  }
+}

@@ -7,14 +7,14 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.pretty_girl"
+          "sound_id": "custom:horn.invincible.are_you_sure"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Pretty Girl"
+        "description": "Are you Sure?"
       },
       "minecraft:item_model": "custom:custom_horn",
-      "minecraft:custom_model_data":{"floats":[1]}
+      "minecraft:custom_model_data":{"floats":[4]}
     }
   },
   "group": "custom horns"

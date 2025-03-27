@@ -4,14 +4,14 @@
   "result": {
     "count": 1,
     "id": "minecraft:goat_horn",
-    "components": {
+    "components":{
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.pow_wop_pow"
+          "sound_id": "custom:horn.otherealm.buy_my_seed"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "POW WOP POW!!"
+        "description" : "SEEED?"
       },
       "minecraft:item_model": "custom:custom_horn",
       "minecraft:custom_model_data":{"floats":[1]}

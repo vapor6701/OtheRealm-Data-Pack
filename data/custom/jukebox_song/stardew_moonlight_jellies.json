@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "ConcernedApe - Dance Of The Moonlight Jellies"
+  },
+  "length_in_seconds": 113.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.stardew_moonlight_jellies"
+  }
+}

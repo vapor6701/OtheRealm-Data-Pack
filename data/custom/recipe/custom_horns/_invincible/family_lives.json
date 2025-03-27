@@ -7,14 +7,14 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "minecraft.entity.creeper.primed"
+          "sound_id": "custom:horn.invincible.family_lives"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Creeper! Aw Man"
+        "description": "Family Lives"
       },
       "minecraft:item_model": "custom:custom_horn",
-      "minecraft:custom_model_data":{"floats":[2]}
+      "minecraft:custom_model_data":{"floats":[4]}
     }
   },
   "group": "custom horns"

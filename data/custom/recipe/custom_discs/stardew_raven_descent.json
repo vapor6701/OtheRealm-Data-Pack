@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O ",
+        "BCM",
+        " P "
+    ],
+    "key": {
+        "O": "minecraft:cocoa_beans",
+        "M":"minecraft:melon_seeds",
+        "P":"minecraft:pumpkin_seeds",
+        "B":"minecraft:beetroot_seeds",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_stardew_raven_descent",
+            "minecraft:jukebox_playable": {
+                "song": "custom:stardew_raven_descent"
+            }
+        }
+    }
+}

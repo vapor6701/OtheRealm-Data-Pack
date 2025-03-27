@@ -7,11 +7,11 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.given_orders"
+          "sound_id": "custom:horn.smash_steve"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Given Orders"
+        "description": "STEVE"
       },
       "minecraft:item_model": "custom:custom_horn"
     }

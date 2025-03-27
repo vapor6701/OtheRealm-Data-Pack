@@ -7,13 +7,14 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.family_lives"
+          "sound_id": "custom:horn.invincible.stand_ready"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Family Lives"
+        "description": "Stand Ready"
       },
-      "minecraft:item_model": "custom:custom_horn"
+      "minecraft:item_model": "custom:custom_horn",
+      "minecraft:custom_model_data":{"floats":[4]}
     }
   },
   "group": "custom horns"

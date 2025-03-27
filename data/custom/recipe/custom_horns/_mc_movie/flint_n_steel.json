@@ -7,14 +7,14 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.melon_lawyer"
+          "sound_id": "custom:horn.mc_movie.flint_n_steel"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Melon Lawyer!"
+        "description": "Flint n Steel"
       },
       "minecraft:item_model": "custom:custom_horn",
-      "minecraft:custom_model_data":{"floats":[1]}
+      "minecraft:custom_model_data":{"floats":[3]}
     }
   },
   "group": "custom horns"

@@ -4,17 +4,17 @@
   "result": {
     "count": 1,
     "id": "minecraft:goat_horn",
-    "components":{
+    "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.buy_my_seed"
+          "sound_id": "custom:horn.variants.meow"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description" : "SEEED?"
+        "description": "Meow variants"
       },
       "minecraft:item_model": "custom:custom_horn",
-      "minecraft:custom_model_data":{"floats":[1]}
+      "minecraft:custom_model_data":{"floats":[5]}
     }
   },
   "group": "custom horns"

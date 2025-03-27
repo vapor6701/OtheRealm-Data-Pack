@@ -2,22 +2,20 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "BBB",
-        "WCW",
-        "LLL"
+        "BCB",
+        "BBB"
     ],
     "key": {
-        "B": "minecraft:brown_terracotta",
-        "W": "minecraft:white_terracotta",
-        "L": "minecraft:light_gray_terracotta",
+        "B": "minecraft:tube_coral_block",
         "C": "#minecraft:creeper_drop_music_discs"
     },
     "result": {
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
-            "minecraft:item_model": "custom:music_disc_jack_black",
+            "minecraft:item_model": "custom:music_disc_stardew_moonlight_jellies",
             "minecraft:jukebox_playable": {
-                "song": "custom:jack_black"
+                "song": "custom:stardew_moonlight_jellies"
             }
         }
     }
