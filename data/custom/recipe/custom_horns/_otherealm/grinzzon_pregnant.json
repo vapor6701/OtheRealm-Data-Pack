@@ -9,11 +9,11 @@
         "sound_event": {
           "sound_id": "custom:horn.otherealm.grinzzon_pregnant"
         },
-        "use_duration": 7.0, 
+        "use_duration": 0.1, 
         "range": 256.0,
         "description": "Preganinant"
       },
-      "minecraft:item_model": "custom:custom_horn",
+      "minecraft:item_model": "custom:custom_void_horn",
       "minecraft:custom_model_data":{"floats":[1]}
     }
   },
