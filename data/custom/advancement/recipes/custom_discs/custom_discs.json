@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_creeper_disc": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:creeper_drop_music_discs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_creeper_disc"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "custom:custom_discs/ani_cover_crafting",
+      "custom:custom_discs/dog_crafting",
+      "custom:custom_discs/doom_crafting",
+      "custom:custom_discs/flint_n_steel",
+      "custom:custom_discs/gameshow_crafting",
+      "custom:custom_discs/happy_birthday_crafting",
+      "custom:custom_discs/jack_black_crafting",
+      "custom:custom_discs/mcdonalds",
+      "custom:custom_discs/oiia_cat_crafting",
+      "custom:custom_discs/rick_roll_crafting",
+      "custom:custom_discs/stardew_moonlight_jellies",
+      "custom:custom_discs/stardew_raven_descent",
+      "custom:custom_discs/vibe_song_crafting",
+      "custom:custom_discs/vortex_santa_crafting"
+    ]
+  }
+}
