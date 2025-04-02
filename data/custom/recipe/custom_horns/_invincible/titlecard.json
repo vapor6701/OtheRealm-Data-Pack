@@ -9,11 +9,11 @@
         "sound_event": {
           "sound_id": "custom:horn.invincible.titlecard"
         },
-        "use_duration": 0.1, 
+        "use_duration": 7.0, 
         "range": 256.0,
         "description": "Im... [titlecard]"
       },
-      "minecraft:item_model": "custom:custom_void_horn",
+      "minecraft:item_model": "custom:custom_horn",
       "minecraft:custom_model_data":{"floats":[4]}
     }
   },
