@@ -14,9 +14,7 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_dog",
-            "minecraft:jukebox_playable": {
-                "song": "custom:dog"
-            }
+            "minecraft:jukebox_playable": "custom:dog"
         }
     }
 }

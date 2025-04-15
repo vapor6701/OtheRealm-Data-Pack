@@ -14,9 +14,7 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_flint_n_steel",
-            "minecraft:jukebox_playable": {
-                "song": "custom:flint_n_steel"
-            }
+            "minecraft:jukebox_playable": "custom:flint_n_steel"
         }
     }
 }

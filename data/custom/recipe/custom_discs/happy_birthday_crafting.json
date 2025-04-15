@@ -15,9 +15,6 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_happy_birthday",
-            "minecraft:jukebox_playable": {
-                "song": "custom:happy_birthday"
-            }
-        }
+            "minecraft:jukebox_playable": "custom:happy_birthday"        }
     }
 }
