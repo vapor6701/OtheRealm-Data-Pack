@@ -5,8 +5,12 @@
     "custom:cal_hang_in_there",
     "custom:crab_tank",
     "custom:pk_civ",
+    "custom:loss",
+    "custom:invapoble",
     "custom:cinema",
-    "custom:kizu"
+    "custom:kizu",
+    "custom:vapor_muppet",
+    "custom:fishin"
 
   ],
   "replace": false

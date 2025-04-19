@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "Grinzzon - HAPPY BIRTHDAY"
+  },
+  "length_in_seconds": 58.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.happy_birthday"
+  }
+}

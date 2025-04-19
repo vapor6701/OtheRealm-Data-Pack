@@ -7,7 +7,7 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.pow_wop_pow"
+          "sound_id": "custom:horn.otherealm.pow_wop_pow"
         },
         "use_duration": 7.0, 
         "range": 256.0,

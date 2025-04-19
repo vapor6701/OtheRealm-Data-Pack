@@ -7,14 +7,13 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.pretty_girl"
+          "sound_id": "custom:horn.smash_steve"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Pretty Girl"
+        "description": "STEVE"
       },
-      "minecraft:item_model": "custom:custom_horn",
-      "minecraft:custom_model_data":{"floats":[1]}
+      "minecraft:item_model": "custom:custom_horn"
     }
   },
   "group": "custom horns"

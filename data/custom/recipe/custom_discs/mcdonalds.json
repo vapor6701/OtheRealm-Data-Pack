@@ -6,16 +6,16 @@
         "W#W"
     ],
     "key": {
-        "#": "minecraft:red_concrete",
-        "W": "minecraft:white_concrete",
+        "#": "minecraft:yellow_concrete",
+        "W": "minecraft:red_concrete",
         "C": "#minecraft:creeper_drop_music_discs"
     },
     "result": {
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
-            "minecraft:item_model": "custom:music_disc_ani_cover",
-            "minecraft:jukebox_playable": "custom:ani_christmas_cover"
+            "minecraft:item_model": "custom:music_disc_mcdonalds",
+            "minecraft:jukebox_playable": "custom:mcdonalds"
         }
     }
 }

@@ -7,11 +7,11 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.pickle"
+          "sound_id": "custom:horn.otherealm.grinzzon_pretty_girl"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Pickle"
+        "description": "Pretty Girl"
       },
       "minecraft:item_model": "custom:custom_horn",
       "minecraft:custom_model_data":{"floats":[1]}

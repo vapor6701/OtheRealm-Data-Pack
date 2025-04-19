@@ -16,9 +16,7 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_vortex_santa",
-            "minecraft:jukebox_playable": {
-                "song": "custom:vortex_secret_santa"
-            }
+            "minecraft:jukebox_playable": "custom:vortex_secret_santa"
         }
     }
 }

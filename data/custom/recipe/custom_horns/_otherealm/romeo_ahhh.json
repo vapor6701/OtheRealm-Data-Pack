@@ -7,11 +7,11 @@
     "components": {
       "minecraft:instrument": {
         "sound_event": {
-          "sound_id": "custom:horn.spicy_boi"
+          "sound_id": "custom:horn.otherealm.romeo_ahhh"
         },
         "use_duration": 7.0, 
         "range": 256.0,
-        "description": "Spicy"
+        "description": "Romeo Ahhhhh"
       },
       "minecraft:item_model": "custom:custom_horn",
       "minecraft:custom_model_data":{"floats":[1]}

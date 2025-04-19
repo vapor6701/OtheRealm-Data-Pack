@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BCB",
+        "BBB"
+    ],
+    "key": {
+        "B": "minecraft:tube_coral_block",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_stardew_moonlight_jellies",
+            "minecraft:jukebox_playable": "custom:stardew_moonlight_jellies"
+        }
+    }
+}
