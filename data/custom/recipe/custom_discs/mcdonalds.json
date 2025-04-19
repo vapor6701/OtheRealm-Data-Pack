@@ -15,9 +15,7 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_mcdonalds",
-            "minecraft:jukebox_playable": {
-                "song": "custom:mcdonalds"
-            }
+            "minecraft:jukebox_playable": "custom:mcdonalds"
         }
     }
 }

@@ -21,9 +21,7 @@
         "count": 1,
         "components": {
             "minecraft:item_model": "custom:music_disc_oiia_cat",
-            "minecraft:jukebox_playable": {
-                "song": "custom:oiia_cat_remix"
-            }
+            "minecraft:jukebox_playable": "custom:oiia_cat_remix"
         }
     }
 }
