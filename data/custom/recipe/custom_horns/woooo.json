@@ -1,5 +1,5 @@
 {
-	"type": "minecraft:campfire_cooking",
+	"type": "minecraft:stonecutting",
 	"ingredient": "minecraft:goat_horn",
 	"result": {
 		"id": "minecraft:goat_horn",
