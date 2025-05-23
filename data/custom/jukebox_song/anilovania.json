@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "AniLover16 - Megalovania(Remix)"
+  },
+  "length_in_seconds": 214.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.anilovania"
+  }
+}
