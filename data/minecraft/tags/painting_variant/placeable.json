@@ -16,8 +16,10 @@
     "custom:otherealm_movie",
     "custom:chicken_jockey",
     "custom:made_friends",
-    "custom:cassowary"
-
+    "custom:cassowary",
+    "custom:rhymes_with_grug",
+    "custom:melon_laywer",    
+    "custom:lurking_it"
   ],
   "replace": false
 }
