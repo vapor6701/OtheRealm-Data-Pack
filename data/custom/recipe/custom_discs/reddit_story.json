@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OCO",
+        "OOO"
+    ],
+    "key": {
+        "O": "minecraft:orange_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_reddit_story",
+            "minecraft:jukebox_playable": "custom:reddit_story"
+        }
+    }
+}
