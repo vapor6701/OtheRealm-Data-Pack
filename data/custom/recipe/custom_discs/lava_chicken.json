@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "CDC",
+        " L "
+    ],
+    "key": {
+        "L": "minecraft:lava_bucket",
+        "C": "minecraft:cooked_chicken",
+        "D": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_lava_chicken",
+            "minecraft:jukebox_playable": "custom:lava_chicken"
+        }
+    }
+}

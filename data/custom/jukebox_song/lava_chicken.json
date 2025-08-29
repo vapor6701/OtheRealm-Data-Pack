@@ -1,0 +1,10 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "text": "Jack Black - Lava Chicken"
+  },
+  "length_in_seconds": 31.0,
+  "sound_event": {
+	"sound_id": "custom:music_disc.lava_chicken"
+  }
+}

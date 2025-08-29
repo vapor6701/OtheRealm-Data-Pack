@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RCB",
+        "BBB"
+    ],
+    "key": {
+        "R": "minecraft:red_concrete",
+        "B": "minecraft:blue_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_duel_fates",
+            "minecraft:jukebox_playable": "custom:duel_fates"
+        }
+    }
+}

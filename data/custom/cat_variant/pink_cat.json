@@ -1,0 +1,8 @@
+{
+  "asset_id": "custom:entity/cat/pink_cat",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

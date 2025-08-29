@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_helmet",
+  "addition": "#minecraft:wool",
+  "template": "minecraft:string",
+  "result": {
+    "id": "minecraft:leather_helmet",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "head",
+        "equip_sound" : {
+          "sound_id": "custom:horn.uwu"
+        },
+        "asset_id": "custom:maid"
+      },
+      "minecraft:item_model": "custom:maid_helmet",
+      "minecraft:item_name": "Maid Helmet",
+      "minecraft:rarity": "epic",
+      "minecraft:enchantment_glint_override": false
+    }
+  }
+}

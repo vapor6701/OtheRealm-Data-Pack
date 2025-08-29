@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " BL",
+        "BCB",
+        " B "
+    ],
+    "key": {
+        "L": "minecraft:light_blue_concrete",
+        "B": "minecraft:black_concrete",
+        "C": "#minecraft:creeper_drop_music_discs"
+    },
+    "result": {
+        "id": "minecraft:music_disc_11",
+        "count": 1,
+        "components": {
+            "minecraft:item_model": "custom:music_disc_anilovania",
+            "minecraft:jukebox_playable": "custom:anilovania"
+        }
+    }
+}

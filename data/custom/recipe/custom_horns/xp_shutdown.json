@@ -7,11 +7,11 @@
 		"components": {
 			"minecraft:instrument":{
 				"sound_event": {
-          			"sound_id": "custom:horn.wooo"
+          			"sound_id": "custom:horn.xp_shutdown"
         		},
         		"use_duration": 7.0, 
         		"range": 256.0,
-        		"description": "Wooooo!!!"
+        		"description": "Windows XP"
 			},
 			"minecraft:item_model": "custom:custom_horn"
 		}
