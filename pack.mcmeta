@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 81,
-        "description": "Custom Datapack for OtheRealm Season 2. Made by Vapor. Updated to version 1.21.7/8"
+        "min_format": [88, 0],
+        "max_format": [88, 0],
+        "description": "Custom Datapack for OtheRealm Season 2. Made by Vapor. Updated to version 1.21.9/10"
     }
 }
