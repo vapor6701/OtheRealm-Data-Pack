@@ -1,0 +1,10 @@
+{
+  "comparator_output": 11,
+  "description": {
+    "text": "C418 - Eleven"
+  },
+  "length_in_seconds": 71.0,
+  "sound_event": {
+  "sound_id": "custom:music_disc.eleven"
+  }
+}
